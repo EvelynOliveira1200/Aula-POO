@@ -2,7 +2,7 @@
 const cachorroObjeto = new Object()
 
 cachorroObjeto.nome = "Mel"
-cachorroObjeto.raça = "Shih-tzu"
+cachorroObjeto.raca = "Shih-tzu"
 cachorroObjeto.cor = "Preto e branco"
 cachorroObjeto.idade = 6
 
